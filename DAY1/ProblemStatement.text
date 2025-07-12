@@ -1,0 +1,9 @@
+|  # | Problem Statement           | Key Concepts Used                                                |
+| -: | --------------------------- | ---------------------------------------------------------------- |
+|  1 | Sum of two numbers          | `prompt`, `Number`, arithmetic, `console.log`, template literals |
+|  2 | Greet with name and age     | `prompt`, template literals, string input                        |
+|  3 | Area of rectangle           | `parseFloat`, multiplication, `console.log`                      |
+|  4 | Find the larger number      | Comparison, ternary operator                                     |
+|  5 | Even or odd check           | Modulo operator `%`, ternary                                     |
+|  6 | Voter eligibility check     | Comparison, subtraction, ternary                                 |
+|  7 | Day of the week from number | `switch-case`, `default`                                         |
